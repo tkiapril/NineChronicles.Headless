@@ -34,6 +34,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Lib9c\.Libplanet\Libplanet.Explorer.Cocona\Libplanet.Explorer.Cocona.csproj" />
     <ProjectReference Include="..\Lib9c\.Libplanet\Libplanet.Extensions.Cocona\Libplanet.Extensions.Cocona.csproj" />
     <ProjectReference Include="..\NineChronicles.Headless\NineChronicles.Headless.csproj" />
   </ItemGroup>
